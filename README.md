@@ -32,5 +32,5 @@ O código está estruturado em funções:
 - `atualizar_display()` → Atualiza o quadrado no display conforme o joystick
 - `main()` → Loop principal que lê o joystick e atualiza os LEDs e display
 
-LINK DO VÍDEO DE APRESENTAÇÃO DO PROJETO: 
+LINK DO VÍDEO DE APRESENTAÇÃO DO PROJETO: https://youtu.be/_a3uOgalYV8?feature=shared
 
